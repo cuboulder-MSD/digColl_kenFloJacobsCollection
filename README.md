@@ -9,7 +9,7 @@ Please use the same link when sharing or citing the collection.
 ## Metadata
 
 ### Collection Name
-Name of the collection: 
+Name of the collection: Ken and Flo Jacobs Collection
 
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
@@ -124,3 +124,5 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace
+
+
