@@ -6,7 +6,7 @@ Ken Jacobs is an experimental filmmaker from Brooklyn New York. Since the 1950s,
 The collection contains materials related to the filmmaking, creative work, academic work, and teaching of Ken and Flo Jacobs, including family and biographical material of relevance to their creative work and personal material relating to their relationships with other artists, filmmakers, scholars, and other figures. The papers include personal records and correspondence, filmmaking records, teaching materials, rare and unique books or publications, and sound and video recordings.
 
 
-Permanent address to digital collection: [https://cudl.colorado.edu/luna/servlet/CUB~35~35).<br /> 
+Permanent address to digital collection: [https://doi.org/10.25810/y7k3-n131).<br /> 
 Please use the same link when sharing or citing the collection.
 
 ## Metadata
